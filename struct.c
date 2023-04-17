@@ -1,10 +1,8 @@
 #include <stdio.h>
 
-// typedef
-
 int main(void) {
     char *myCats[] = {"Cookie", "Luna", "Lucy", "Lotus", "Coconut", "Father of 20"};
-    size_t catsCount = sizeof(myCats) / sizeof(myCats[0]);
+    size_t catsCount = sizeof(myCats) / sizeof(myCats[0]); // counts the array size "mathematically"
 
     printf("You had %zu cats!\n", catsCount);
 
