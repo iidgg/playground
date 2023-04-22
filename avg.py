@@ -1,3 +1,4 @@
+# a cs50 watching the lecture while writing / 2023 week -6 python
 scores = []
 length = 0
 
