@@ -1,4 +1,4 @@
-# a cs50 watching the lecture while writing / 2023 week -6 python
+# a cs50 watching the lecture while coding / 2023 week -6 python
 def main():
     typo = getTypo()
     length = getLength()
